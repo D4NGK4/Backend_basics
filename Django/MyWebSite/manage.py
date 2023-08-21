@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+#user: Dan
+#pass: 12345
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
