@@ -5,6 +5,6 @@ def index(response):
     return HttpResponse("Hello World")
 
 def v1(response):
-    return HttpResponse("Hello World")
+    return HttpResponse("Da first view")
 
 # Create your views here.
