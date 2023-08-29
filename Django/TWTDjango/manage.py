@@ -1,5 +1,8 @@
 #Sourced from TechWithTim youtube
 #!/usr/bin/env python
+
+
+#tinapulan is not good
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
